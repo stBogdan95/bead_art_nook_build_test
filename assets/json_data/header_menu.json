@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Home",
+        "link": ""
+    },
+    {
+        "name": "Shop",
+        "link": "",
+        "category": [
+            {
+                "name": "Link1",
+                "link": ""
+            },
+            {
+                "name": "Link2",
+                "link": ""
+            },
+            {
+                "name": "Link3",
+                "link": ""
+            }
+        ]
+    },
+    {
+        "name": "Gallery",
+        "link": ""
+    },
+    {
+        "name": "Contact Us",
+        "link": ""
+    }
+]
